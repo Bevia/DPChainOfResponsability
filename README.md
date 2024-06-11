@@ -1,6 +1,6 @@
-## Behavioural Design Pattern: Chain of Responsability
+## Behavioural Design Pattern: Chain of Responsibility
 
-###step1: g++ -std=c++11 Main.cpp -o PrinterChain
+### step1: g++ -std=c++11 Main.cpp -o PrinterChain
 step2: ./PrinterChain
 
 Explanation
